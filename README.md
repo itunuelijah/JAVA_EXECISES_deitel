@@ -1,0 +1,2 @@
+# deitel
+semicolon exercises
