@@ -1,4 +1,4 @@
-package Semicolon_Exercise;
+package Semicolon_Execise;
 
 public class GradeBook {
     public static void main(String[] args) {

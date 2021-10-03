@@ -1,4 +1,4 @@
-package Semicolon_Exercise;
+package Semicolon_Execise;
 
 import java.util.Scanner;
 //
