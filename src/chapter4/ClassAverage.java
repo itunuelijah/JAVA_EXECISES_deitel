@@ -24,6 +24,7 @@ public class ClassAverage {
              System.out.printf("Class average is %.2f%n", average);
          }
        else
-         System.out.println("No grades were entered");
+             System.out.println("No grades were entered");
+
     }
 }
