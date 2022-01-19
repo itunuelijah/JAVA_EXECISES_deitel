@@ -114,12 +114,7 @@ public class Turtle {
 
         }
         moveForward(numberOfSteps);
-
-
     }
-//    private void increaseColumnPositionBy(int numberOfSteps){
-//        currentPosition.increaseColumnPositionBy(numberOfSteps);
-//    }
 }
 
 
