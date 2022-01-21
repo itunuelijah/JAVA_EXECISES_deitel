@@ -27,7 +27,7 @@ public class additionOfNumbers {
                     minimumNumber = number[i];
                 }
             }
-            System.out.println("Maximum score is:" + amaximum);
+            System.out.println("Maximum score is:" + minimumNumber);
 
             return minimumNumber;
         }
